@@ -5,7 +5,9 @@ Direct mailings to a company’s potential customers – “junk mail” to many
 If the company had a better understanding of who their potential customers were, they would know more accurately who to send it to, so some of this waste and expense could be reduced.
 
 Data Files
+
 Train Dataset = carvan_train.csv
+
 Test Dataset = carvan_test.csv
 
 Problem Statement
